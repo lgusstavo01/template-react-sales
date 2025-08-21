@@ -1,8 +1,8 @@
-# 🏗️ Alunil - Landing Page
+# 🏷️ Template React Sales
 
-![Mockup da Landing Page](mockup-desktop.png)
+![Mockup da Landing Page](./assets/mockup.png)
 
-> Landing page moderna e responsiva desenvolvida em **React + TailwindCSS**, com foco em conversão via WhatsApp.
+Landing page moderna e responsiva desenvolvida em **React + TailwindCSS**, com foco em conversão via WhatsApp.
 
 ---
 
@@ -13,58 +13,17 @@
 - 💬 **Formulário Integrado ao WhatsApp** – envio automático das informações do cliente.  
 - 🖼️ **Galeria de Produtos** – destaque para os principais perfis e materiais.  
 - 🌙 **Suporte a Dark Mode** – integração automática com preferências do usuário.  
-- 🔗 **Navegação Suave (scrollspy)** – transições fluídas entre seções.  
+- 🧭 **Navegação Suave (scrollspy)** – transições fluídas entre seções.  
 
 ---
 
 ## 🖼️ Mockups
 
 ### Versão Desktop
-![Preview Desktop](mockup-desktop.png)
+![Preview Desktop](./assets/desktop.png)
 
 ### Versão Mobile
-![Preview Mobile](mockup-mobile.png)
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- **React.js** ⚛️  
-- **TailwindCSS** 🎨  
-- **Lucide Icons** 🔥  
-- **Vite** ⚡  
-
----
-
-## 📂 Estrutura de Pastas
-
-```
-src/
-├── components/     # Componentes reutilizáveis (Hero, Navbar, Footer, etc.)
-├── data/           # Arquivos estáticos (lista de produtos, features)
-├── assets/         # Imagens e ícones
-└── App.jsx         # Estrutura principal da aplicação
-```
-
----
-
-## 🔧 Como Rodar Localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/template-sales.git
-
-# Entre na pasta
-cd template-sales
-
-# Instale as dependências
-npm install
-
-# Rode o servidor de desenvolvimento
-npm run dev
-```
-
-Acesse em [http://localhost:5173](http://localhost:5173) 🚀
+![Preview Mobile](./assets/mobile.png)
 
 ---
 
@@ -73,20 +32,21 @@ Acesse em [http://localhost:5173](http://localhost:5173) 🚀
 Você pode substituir depois por screenshots reais da sua página.  
 Exemplo:
 
-![Screenshot Hero](screenshot-hero.png)  
-![Screenshot Produtos](screenshot-produtos.png)  
+![Screenshot Hero](./assets/mockup.png)  
+![Screenshot Produtos](./assets/desktop.png)  
 
 ---
 
-## 📢 Publicação
+## 🚀 Publicação
 
-Essa LP pode ser publicada em:  
-- **Vercel**  
-- **Netlify**  
-- **GitHub Pages**  
+Essa LP pode ser publicada em:
+
+- [Vercel](https://vercel.com)  
+- [Netlify](https://www.netlify.com)  
+- [GitHub Pages](https://pages.github.com)  
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://linkedin.com/in/seu-perfil) 💙  
+Desenvolvido por **Luiz Gustavo** 💙
